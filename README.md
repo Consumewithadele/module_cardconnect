@@ -1,1 +1,1 @@
-# module_cardconnect
+# Payment method module https://cardconnect.com/
